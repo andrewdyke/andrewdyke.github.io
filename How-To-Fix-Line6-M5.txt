@@ -1,9 +1,0 @@
-
-How-To-Fix-Line6-M5
-
-Since grounding is through the metal case, you must scrape all paint away from the five external screw holes, 
-including the one on the side and replace with unpainted screws. AND most important: take off the case and 
-lightly sand or file the bottoms of the two threaded metal tubes that two of the external screws thread into 
-to support the circuit board, as well as where the tubes touch the inside of the case. These actions will 
-correct the poor design by Line 6 which created the intermittent grounding problem. Line 6 should have 
-acknowledged the design or production flaw in an otherwise good product.
